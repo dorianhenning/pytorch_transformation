@@ -1,0 +1,10 @@
+# Python cache files.
+*.egg-info
+__pycache__/
+
+# Editor files.
+.idea/
+
+# Testing cache. 
+.benchmarks/
+.pytest_cache/
